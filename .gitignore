@@ -1,0 +1,4 @@
+# Yerel test ve çalışma dosyaları
+work/
+*.log
+.DS_Store
